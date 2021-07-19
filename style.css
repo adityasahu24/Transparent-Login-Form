@@ -15,6 +15,15 @@ body{
     left: 40%;
    
 }
+@media only screen and (max-width: 1020px) {
+    .container {
+        width: 56%;
+        color: white;
+        position: absolute;
+        top: 25%;
+        left: 32%;
+  }
+}
 .container h1{
     font-family: 'Heebo', sans-serif;
     display: inline-block;
